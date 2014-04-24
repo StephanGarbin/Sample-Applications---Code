@@ -1,0 +1,2 @@
+The SolverTest folder contains a Visual Studio solution containing test project and code for my 3d sparse/dense conjugate gradient + data structure implementation. (Please note that this relies on TBB being installed which can be downloaded from https://www.threadingbuildingblocks.org/ for free)
+All necessary C++ files are also contained within sub-directories.
